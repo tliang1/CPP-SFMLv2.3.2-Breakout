@@ -1,2 +1,5 @@
-# CPP-SFMLv2.3.2-Breakout
-C++ SFML 2.3.2 Breakout game project
+#Breakout Game by Tony Liang
+
+Made using C++ 11 STL and SFML 2.3.2.
+
+#How To Play
