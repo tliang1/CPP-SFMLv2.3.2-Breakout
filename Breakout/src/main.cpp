@@ -1,4 +1,4 @@
-// main.cpp : 
+// main.cpp : Breakout game
 
 #include "stdafx.h"
 #include "Game.h"

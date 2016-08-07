@@ -233,7 +233,6 @@ void Game::startGame()
 	using namespace sf;
 
 	RenderWindow window(VideoMode::getDesktopMode(), "Breakout", Style::Fullscreen);
-	//RenderWindow window(VideoMode(640, 480), "Breakout");
 	window.setFramerateLimit(60);
 
 	View view(FloatRect(0, 0, viewWidth, viewHeight));
